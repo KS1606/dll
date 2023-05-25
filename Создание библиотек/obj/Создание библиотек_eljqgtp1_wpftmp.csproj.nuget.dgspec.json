@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KS\\source\\repos\\Создание библиотек\\Создание библиотек\\Создание библиотек.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KS\\source\\repos\\JSON\\JSON.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KS\\source\\repos\\JSON\\JSON.csproj",
+        "projectName": "JSON",
+        "projectPath": "C:\\Users\\KS\\source\\repos\\JSON\\JSON.csproj",
+        "packagesPath": "C:\\Users\\KS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KS\\source\\repos\\JSON\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\KS\\NuGet.Config",
+          "C:\\Users\\KS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "BluwolfIcons": "[1.0.1, )",
+            "Dragablz": "[0.0.3.223, )",
+            "Humanizer": "[2.14.1, )",
+            "MahApps.Metro": "[2.4.9, )",
+            "MaterialDesignThemes": "[4.9.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.3, )",
+            "Microsoft.CodeAnalysis.Common": "[4.2.0, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.2.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": "[4.2.0, )",
+            "Microsoft.CodeAnalysis.Workspaces.Common": "[4.2.0, )",
+            "Microsoft.Composition": "[1.0.31, )",
+            "Microsoft.CSharp": "[4.7.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.2.0, )",
+            "Microsoft.NETCore.Platforms": "[5.0.0, )",
+            "Microsoft.Toolkit.MVVM": "[7.1.2, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.39, )",
+            "MvvmLightLibs": "[5.4.1.1, )",
+            "Newtonsoft.Json": "[13.0.3, )",
+            "Shouldly": "[4.0.3, )",
+            "ShowMeTheXAML": "[2.0.0, )",
+            "ShowMeTheXAML.AvalonEdit": "[2.0.0, )",
+            "ShowMeTheXAML.MSBuild": "[2.0.0, )",
+            "VirtualizingWrapPanel": "[1.5.7, )",
+            "WindowsAPICodePack-Shell": "[1.1.1, )",
+            "XAMLTest": "[1.0.0-ci264, )",
+            "xunit": "[2.4.1, )",
+            "xunit.runner.visualstudio": "[2.4.5, )",
+            "Xunit.StaFact": "[1.1.11, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KS\\source\\repos\\Создание библиотек\\Создание библиотек\\Создание библиотек.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KS\\source\\repos\\Создание библиотек\\Создание библиотек\\Создание библиотек.csproj",
+        "projectName": "Создание библиотек",
+        "projectPath": "C:\\Users\\KS\\source\\repos\\Создание библиотек\\Создание библиотек\\Создание библиотек.csproj",
+        "packagesPath": "C:\\Users\\KS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KS\\source\\repos\\Создание библиотек\\Создание библиотек\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\KS\\NuGet.Config",
+          "C:\\Users\\KS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\KS\\source\\repos\\JSON\\JSON.csproj": {
+                "projectPath": "C:\\Users\\KS\\source\\repos\\JSON\\JSON.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "BluwolfIcons": "[1.0.1, )",
+            "Dragablz": "[0.0.3.223, )",
+            "Humanizer": "[2.14.1, )",
+            "MahApps.Metro": "[2.4.9, )",
+            "MaterialDesignThemes": "[4.9.0, )",
+            "Microsoft.CodeAnalysis.Analyzers": "[3.3.3, )",
+            "Microsoft.CodeAnalysis.Common": "[4.2.0, )",
+            "Microsoft.CodeAnalysis.CSharp": "[4.2.0, )",
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": "[4.2.0, )",
+            "Microsoft.CodeAnalysis.Workspaces.Common": "[4.2.0, )",
+            "Microsoft.Composition": "[1.0.31, )",
+            "Microsoft.CSharp": "[4.7.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.2.0, )",
+            "Microsoft.NETCore.Platforms": "[5.0.0, )",
+            "Microsoft.Toolkit.MVVM": "[7.1.2, )",
+            "Microsoft.Xaml.Behaviors.Wpf": "[1.1.39, )",
+            "MvvmLightLibs": "[5.4.1.1, )",
+            "Newtonsoft.Json": "[13.0.3, )",
+            "Shouldly": "[4.0.3, )",
+            "ShowMeTheXAML": "[2.0.0, )",
+            "ShowMeTheXAML.AvalonEdit": "[2.0.0, )",
+            "ShowMeTheXAML.MSBuild": "[2.0.0, )",
+            "VirtualizingWrapPanel": "[1.5.7, )",
+            "WindowsAPICodePack-Shell": "[1.1.1, )",
+            "XAMLTest": "[1.0.0-ci264, )",
+            "xunit": "[2.4.1, )",
+            "xunit.runner.visualstudio": "[2.4.5, )",
+            "Xunit.StaFact": "[1.1.11, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

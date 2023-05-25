@@ -1,0 +1,23 @@
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек_MarkupCompile.cache
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек_MarkupCompile.lref
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\bin\Debug\net6.0-windows\Создание библиотек.exe
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\bin\Debug\net6.0-windows\Создание библиотек.deps.json
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\bin\Debug\net6.0-windows\Создание библиотек.runtimeconfig.json
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\bin\Debug\net6.0-windows\Создание библиотек.dll
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\bin\Debug\net6.0-windows\Создание библиотек.pdb
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.g.resources
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.AssemblyInfo.cs
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.dll
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\refint\Создание библиотек.dll
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.pdb
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.genruntimeconfig.cache
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\ref\Создание библиотек.dll
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\KS\source\repos\Создание библиотек\Создание библиотек\obj\Debug\net6.0-windows\Создание библиотек.csproj.CopyComplete
